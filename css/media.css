@@ -1,0 +1,2657 @@
+@media screen and (max-width: 1600px) {
+
+}
+
+@media screen and (max-width: 1400px) {
+    .center {
+        width: 100%;
+    }
+
+    div#footer .container {
+        width: 100%;
+    }
+
+    nav.container {
+        width: 100%;
+    }
+
+    .container > #left-sidebar > div#costume_tax {
+        width: 100%;
+    }
+
+    div#product-list {
+        width: 100%;
+    }
+
+    .container > #left-sidebar {
+        padding-right: 0;
+    }
+
+    .main_carusel {
+        width: 100%;
+    }
+
+    main#right-main figure {
+        width: 55%;
+        height: 79%;
+        left: 208px;
+        top: 55px;
+    }
+
+    main#right-main h1 {
+        width: 67%;
+    }
+
+    .woocommerce ul.products li.product a img {
+        padding-left: 10px;
+    }
+}
+
+@media screen and (max-width: 1300px) {
+    .product-item img {
+        max-height: 66%;
+    }
+}
+
+@media screen and (max-width: 1350px) {
+    .widget.widget-header-left-top {
+        font-size: 13px;
+    }
+
+    div#header-bottom {
+        font-size: 17px;
+    }
+
+    .wp-block-code a {
+        font-size: 18px;
+    }
+
+    div#costume_tax {
+        width: 100%;
+    }
+
+    main#right-main {
+        width: 67%;
+    }
+
+    div#right-sidebar {
+        width: 20%;
+    }
+}
+
+@media screen and (max-width: 1250px) {
+    .widget.widget-header-left-top {
+        font-size: 14px;
+        width: 50%;
+    }
+
+    .wp-block-code a {
+        font-size: 18px;
+    }
+
+    .logo_social {
+        width: 36%;
+    }
+
+    .logo_social img {
+        width: 9%;
+    }
+
+    .tel_logo {
+        left: 98px;
+        top: 148px;
+    }
+
+    div#header-bottom {
+        font-size: 16px;
+    }
+
+    main#right-main {
+        width: 67%;
+    }
+
+    main#right-main h1 {
+        position: absolute;
+        z-index: 9;
+        font-size: 23px;
+        display: block;
+        padding-left: 0;
+        padding-top: 10px;
+    }
+
+    .product-item img {
+        max-height: 62%;
+    }
+
+    a.button.product_type_simple.add_to_cart_button.ajax_add_to_cart {
+        margin-left: 50px;
+    }
+    p.payment {
+        width: 23%;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .widget.widget-header-left-top {
+        font-size: 14px;
+        padding-top: 5px;
+    }
+
+    div#header-bottom {
+        font-size: 15px;
+    }
+
+    .tel_logo a {
+        font-size: 17px;
+    }
+
+    input#s {
+        width: 200px;
+    }
+
+    .tel_logo {
+        left: 96px;
+        top: 140px;
+    }
+
+    main#right-main h1 {
+        padding-left: 0;
+    }
+
+    main#right-main figure {
+        left: 190px;
+    }
+
+    .product-item {
+        width: 22%;
+    }
+
+    a.arrow {
+        font-size: 18px !important;
+    }
+
+    a.button.product_type_simple.add_to_cart_button.ajax_add_to_cart {
+        margin-left: 43px;
+    }
+}
+
+@media screen and (max-width: 1150px) {
+    .wp-block-code a {
+        font-size: 17px;
+    }
+
+    p.catalog a, p.discont a {
+        font-size: 15px;
+    }
+
+    p.company {
+        font-size: 15px;
+        width: 37%;
+    }
+
+    div#footer .contact h3 {
+        font-size: 16px;
+    }
+
+    .copi_bg {
+        font-size: 14px;
+    }
+
+    main#right-main {
+        width: 67%;
+    }
+
+    main#right-main h1 {
+        padding-left: 0;
+    }
+
+    .form_block_1 h3 {
+        font-size: 24px;
+    }
+
+    a.button.product_type_simple.add_to_cart_button.ajax_add_to_cart {
+        margin-left: 39px;
+    }
+    p.payment {
+        width: 25%;
+    }
+}
+
+@media screen and (max-width: 1100px) {
+    input#s {
+        width: 187px;
+    }
+
+    .widget.widget-header-right-top p {
+        font-size: 13px;
+    }
+
+    .widget.widget-header-right-top p {
+        padding-right: 22px;
+        font-size: 15px;
+    }
+
+    .wp-block-code li {
+        padding-left: 6px;
+    }
+
+    main#right-main {
+        width: 60%;
+    }
+
+    .swiper-container {
+        height: 755px;
+    }
+
+    main#right-main h1 {
+        padding-left: 0;
+        font-size: 22px;
+    }
+
+    main#right-main {
+        width: 67%;
+    }
+}
+
+@media screen and (max-width: 1050px) {
+    input#s {
+        width: 160px;
+    }
+
+    .widget.widget-header-left-top {
+        padding-right: 0;
+        width: 58%;
+    }
+
+    .wp-block-code li {
+        padding-left: 6px;
+    }
+
+    .widget.widget-header-right-top p {
+        font-size: 13px;
+    }
+
+    .widget.widget-header-right-top p {
+        padding-right: 22px;
+    }
+
+    p.world {
+        padding-top: 0;
+    }
+
+    .copi_bg {
+        font-size: 14px;
+    }
+
+    main#right-main {
+        width: 59%;
+    }
+
+    .swiper-container {
+        height: 755px;
+    }
+
+    main#right-main {
+        width: 67%;
+    }
+
+    main#right-main h1 {
+        font-size: 22px;
+    }
+
+    div#costume_tax a {
+        font-size: 26px;
+    }
+
+    div#product-list {
+        width: auto;
+        text-align: left;
+    }
+
+    .product-item {
+        width: 18%;
+    }
+}
+
+@media screen and (max-width: 1000px) {
+    .widget.widget-header-right-top p {
+        font-size: 13px;
+    }
+
+    .widget.widget-header-right-top p {
+        padding-right: 22px;
+    }
+
+    .wp-block-code li {
+        padding-left: 6px;
+    }
+
+    .tel_logo {
+        left: 82px;
+        top: 121px;
+    }
+
+    .logo_social {
+        width: 35%;
+    }
+
+    .tel_logo a {
+        font-size: 16px;
+    }
+
+    p.world {
+        padding-top: 0;
+    }
+
+    .copi_bg {
+        font-size: 14px;
+    }
+
+    .product-item {
+        width: 25%;
+    }
+
+    div#left-sidebar {
+        width: 15%;
+    }
+
+    a.arrow {
+        font-size: 15px !important;
+    }
+
+    div#costume_tax {
+        margin-left: 15px;
+    }
+
+    a.arrow {
+        font-size: 18px !important;
+        padding: 58px 0 0 40px;
+    }
+
+    main#right-main-full {
+        width: 80%;
+    }
+
+    ul#menu-glavnoe-menyu-uk li, ul#menu-glavnoe-menyu-ru li, ul#menu-glavnoe-menyu-en li {
+        padding-left: 30px;
+    }
+
+    a.button.product_type_simple.add_to_cart_button.ajax_add_to_cart {
+        margin-left: 30px;
+    }
+
+    p.company span {
+        font-size: 15px;
+    }
+
+    p.company {
+        font-size: 14px;
+    }
+
+    div#footer h3, span {
+        font-size: 17px;
+    }
+
+    main#right-main h1 {
+        font-size: 21px;
+    }
+
+    main#right-main h1 {
+        font-size: 20px;
+    }
+
+    main#right-main {
+        width: 65%;
+        background: white;
+    }
+    p.payment {
+        width: 39%;
+    }
+}
+
+    @media screen and (max-width: 980px) {
+        .wp-block-code li {
+            padding-left: 3px;
+        }
+
+        .wp-block-code a {
+            font-size: 15px;
+        }
+
+        .copi_bg {
+            font-size: 13px;
+        }
+
+        p.company {
+            font-size: 13px;
+        }
+
+        p.catalog a, p.discont a {
+            font-size: 14px;
+        }
+
+        .contact p {
+            font-size: 14px;
+        }
+
+        div#footer h3, span {
+            font-size: 16px;
+        }
+
+        input#s {
+            width: 114px;
+        }
+
+        .tel_logo {
+            left: 82px;
+            top: 114px;
+        }
+
+        .tel_logo a {
+            font-size: 14px;
+        }
+
+        .widget.widget-header-left-top {
+            width: 65%;
+        }
+
+        main#right-main {
+            width: 56%;
+        }
+
+        main#right-main figure {
+            left: 131px;
+        }
+
+        main#right-main h1 {
+            font-size: 20px;
+        }
+
+        .form_block_1 {
+            width: 100%;
+        }
+
+        .form_block_1 p {
+            display: none;
+        }
+
+        .form_block_1 h3 {
+            text-align: center;
+        }
+
+        .form_block_2 {
+            width: 50%;
+        }
+
+        .form_block_3 {
+            width: 50%;
+        }
+
+        .form_block_4 {
+            width: 30%;
+        }
+    }
+    @media screen and (max-width: 950px) {
+        main#right-main {
+            width: 65%;
+        }
+
+        main#right-main h1 {
+            font-size: 19px;
+        }
+    }
+    @media screen and (max-width: 920px) {
+        div#block_content {
+            width: 100%;
+        }
+
+        div#footer {
+            width: 100%;
+        }
+
+        .copyright {
+            width: 100%;
+        }
+
+        header#header {
+            width: 100%;
+        }
+
+        .widget.widget-header-right-top p {
+            padding-right: 25px;
+        }
+
+        div#header-top {
+            width: 100%;
+        }
+
+        .widget.widget-header-left-top {
+            width: 55%;
+        }
+
+        ul#menu-glavnoe-menyu-uk li, ul#menu-glavnoe-menyu-ru li, ul#menu-glavnoe-menyu-en li {
+            padding-left: 0;
+        }
+
+        main#right-main {
+            width: 52%;
+        }
+
+        .swiper-container {
+            height: 596px;
+        }
+
+        div#left-sidebar {
+            width: 20%;
+        }
+
+        div#costume_tax a {
+            font-size: 30px;
+        }
+
+        main#right-main {
+            width: 60%;
+        }
+
+        main#right-main h1 {
+            font-size: 17px;
+            width: auto;
+        }
+
+        div#costume_tax img {
+            width: 56%;
+        }
+
+        .product-item {
+            width: 20%;
+        }
+
+        main#right-main-full {
+            width: 73%;
+        }
+
+        span.posted_in {
+            top: 170px;
+        }
+
+        .summary.entry-summary bdi {
+            top: 194px;
+        }
+
+        .woocommerce div.product form.cart {
+            top: 216px;
+        }
+
+        a.button.product_type_simple.add_to_cart_button.ajax_add_to_cart {
+            margin-left: 20px;
+        }
+        div#new .swiper.new-swiper.swiper-container-horizontal {
+            height: 300px;
+        }
+    }
+    @media screen and (max-width: 900px) {
+        .product-item {
+            width: 28%;
+        }
+
+        main#right-main-full {
+            width: 77%;
+        }
+
+        main#right-main figure {
+            left: 90px;
+        }
+
+        main#right-main {
+            width: 60%;
+        }
+
+        main#right-main h1 {
+            width: 51%;
+        }
+
+        div#right-sidebar .swiper-container.nav-slider {
+            height: 877px;
+        }
+
+        #add_payment_method .cart-collaterals .cross-sells ul.products li.product, .woocommerce-cart .cart-collaterals .cross-sells ul.products li.product, .woocommerce-checkout .cart-collaterals .cross-sells ul.products li.product {
+            width: 23%;
+        }
+
+        .woocommerce ul.products li.product a img {
+            width: 75%;
+        }
+
+        .woocommerce ul.products li.product .woocommerce-loop-category__title, .woocommerce ul.products li.product .woocommerce-loop-product__title, .woocommerce ul.products li.product h3 {
+            font-size: 14px;
+        }
+
+        a.button.product_type_simple.add_to_cart_button.ajax_add_to_cart {
+            width: auto;
+        }
+
+        a.button.product_type_simple.add_to_cart_button.ajax_add_to_cart {
+            margin-left: 0;
+        }
+    }
+    @media screen and (max-width: 850px) {
+        main#right-main {
+            width: 60%;
+        }
+
+        .swiper-container {
+            height: 655px;
+        }
+
+        div#costume_tax img {
+            width: 64%;
+        }
+
+        main#right-main figure {
+            left: 112px;
+        }
+
+        .product-item {
+            width: 29%;
+        }
+
+        _simple.add_to_cart_button.ajax_add_to_cart {
+            font-size: 11px;
+        }
+    }
+    @media screen and (max-width: 800px) {
+        .costume_content > a {
+            width: 40%;
+            padding-left: 40px;
+            padding-top: 15px;
+        }
+
+        .colection_costume_content > a {
+            width: 27%;
+        }
+
+        ul#menu-glavnoe-menyu-uk li, ul#menu-glavnoe-menyu-ru li, ul#menu-glavnoe-menyu-en li {
+            padding-left: 0;
+        }
+
+        p.world {
+            display: none;
+        }
+
+        p.kuklafan {
+            width: 50%;
+        }
+
+        p.rights {
+            width: 35%;
+        }
+
+        .production_content > a {
+            width: 35%;
+            padding-left: 50px;
+        }
+
+        .block_zakaza {
+            width: 100%;
+        }
+
+        div#costume_tax ul {
+            display: block;
+        }
+
+        div#costume_tax li {
+            display: inline-block;
+            width: 45%;
+        }
+
+        .product-item {
+            display: inline-flex;
+            width: 42%;
+            height: 240px;
+        }
+
+        div#load-more-wrapper button {
+            font-size: 17px;
+        }
+
+        div#left-sidebar {
+            width: 20%;
+        }
+
+        div#costume_tax {
+            margin-left: 0;
+        }
+
+        .main_carusel #costume_tax ul {
+            display: block;
+            width: 100%;
+        }
+
+        div#left-sidebar li {
+            width: 100%;
+        }
+
+        div#costume_tax {
+            width: 100%;
+        }
+
+        main#right-main {
+            width: 60%;
+            margin: 0 auto;
+        }
+
+        main#right-main h1 {
+            font-size: 16px;
+            width: 59%;
+        }
+
+        .swiper-container {
+            height: 479px;
+        }
+
+        div#right-sidebar .swiper-container.nav-slider {
+            height: 866px;
+        }
+
+        div#left-sidebar span {
+            font-size: 13px;
+        }
+
+        div#costume_tax a {
+            font-size: 30px;
+        }
+
+        div#costume_tax img {
+            width: 65%;
+        }
+
+        main#right-main-full {
+            float: right;
+            width: 76%;
+        }
+
+        a.arrow {
+            font-size: 17px !important;
+            padding: 58px 0 0 24px;
+        }
+
+        .woocommerce ul.products li.product .woocommerce-loop-category__title, .woocommerce ul.products li.product .woocommerce-loop-product__title, .woocommerce ul.products li.product h3 {
+            font-size: 13px;
+        }
+
+        .woocommerce ul.products li.product .button {
+            margin: 0 auto;
+            position: absolute;
+            bottom: 0;
+            font-size: 13px;
+        }
+
+        .woocommerce ul.products li.product .woocommerce-loop-category__title, .woocommerce ul.products li.product .woocommerce-loop-product__title, .woocommerce ul.products li.product h3 {
+            width: 75%;
+        }
+        div#new .swiper.new-swiper.swiper-container-horizontal {
+            height: 230px;
+        }
+    }
+    @media screen and (max-width: 780px) {
+        main#right-main {
+            width: 60%;
+            margin: 0 auto;
+        }
+
+        main#right-main h1 {
+            font-size: 15px;
+            width: auto;
+        }
+
+        main#right-main figure {
+            height: 62%;
+        }
+
+        div#right-sidebar figure {
+            width: 39%;
+            margin-left: 54px;
+        }
+
+        main#right-main figure {
+            left: 85px;
+        }
+
+        .woocommerce div.product form.cart {
+            top: 60px;
+            position: relative;
+        }
+
+        span.woocommerce-Price-amount.amount bdi {
+            display: block;
+            position: relative;
+            top: 129px;
+            text-align: left;
+        }
+
+        span.posted_in {
+            position: relative;
+            top: -70px;
+        }
+
+        .summary.entry-summary bdi {
+            top: 220px;
+        }
+
+        span.posted_in {
+            top: 194px;
+        }
+
+        .product_meta {
+            position: relative;
+            top: 65px;
+        }
+
+        span.posted_in {
+            top: -136px;
+            position: relative;
+        }
+
+        span.woocommerce-Price-amount.amount bdi {
+            top: 0;
+            text-align: center;
+            left: -20px;
+        }
+
+        .woocommerce ul.products li.product .button {
+            margin-left: 75px;
+        }
+
+        .woocommerce ul.products li.product a img {
+            width: 100%;
+        }
+    }
+
+    @media screen and (max-width: 750px) {
+        p.company {
+            display: none;
+        }
+        .wp-block-image.size-large {
+            width: 61%;
+        }
+
+        div#header-bottom {
+            display: none;
+        }
+
+        .tel_logo {
+            display: none;
+        }
+
+        .tel_logo a {
+            font-size: 15px;
+        }
+
+        .logo_social {
+            width: 55%;
+            position: relative;
+        }
+
+        h3.title {
+            padding: 0;
+        }
+
+        header#header {
+            padding-bottom: 0;
+        }
+        p.catalog {
+            display: none;
+        }
+        p.catalog, p.discont {
+            width: 30%;
+            padding-left: 25px;
+        }
+        p.payment img {
+            width: 75%;
+        }
+        p.payment a {
+            text-align: center;
+        }
+        a.payment_mobile {
+            display: block;
+        }
+        p.payment .desctop {
+            display: none;
+        }
+        .contact {
+            width: 35%;
+            padding-left: 0;
+        }
+        .contact p {
+            font-size: 18px;
+            padding-bottom: 8px;
+        }
+        .contact small {
+            color: white;
+            font-size: 18px;
+        }
+        .contact span {
+            font-size: 18px;
+        }
+        .contact img {
+            padding-left: 5px;
+        }
+        div#footer .contact h3 {
+            font-size: 20px;
+            text-align: center;
+        }
+        p.viber {
+            padding-right: 17px;
+        }
+
+        input#s {
+            width: 250px;
+        }
+
+        .form-group {
+            padding-left: 45px;
+        }
+
+        .widget.widget-header-right-top p {
+            font-size: 16px;
+        }
+
+        .wp-block-code a {
+            font-size: 19px;
+        }
+        .wp-block-code {
+            display: none;
+        }
+        p.lider {
+            display: none;
+        }
+        .widget.widget-header-left-top {
+            width: 23%;
+        }
+        figure.wp-block-image.size-full_mobile {
+            margin-top: -25px;
+        }
+        a.mobile_contact p {
+            padding-left: 30px;
+            padding-top: 5px;
+        }
+        a.desctop {
+            display: none;
+        }
+        form.wpcf7-form.init {
+            display: block;
+            width: auto;
+            text-align: center;
+        }
+
+        input#button_form {
+            width: 40%;
+            margin-top: 5px;
+        }
+
+        .form_block_4 {
+            width: 100%;
+            display: block !important;
+            margin-left: 35px;
+        }
+
+        .form_block_3 {
+            width: 100%;
+        }
+
+        .form_block_2 {
+            width: 50%%;
+        }
+
+        .form_block_2 label {
+            margin-left: 36px;
+        }
+
+        .form_block_3 label {
+            margin-left: 36px;
+            margin-top: 5px;
+        }
+
+        main#right-main {
+            width: 65%;
+        }
+
+        div#right-sidebar {
+            width: 35%;
+        }
+
+        main#right-main h1 {
+            width: auto;
+        }
+
+        main#right-main figure {
+            left: 82px;
+            top: 65px;
+        }
+
+        .product-item {
+            width: 42%;
+        }
+
+        div#costume_tax img {
+            width: 100%;
+        }
+
+        .form_block_2, .form_block_3, .form_block_4 {
+            padding: 0;
+            display: table-cell;
+        }
+
+        div#left-sidebar {
+            width: 18%;
+            display: none;
+        }
+
+        .woocommerce .cart-collaterals .cross-sells, .woocommerce-page .cart-collaterals .cross-sells {
+            width: auto;
+        }
+
+        span.posted_in {
+            top: -60px;
+            position: relative;
+        }
+
+        .summary.entry-summary bdi {
+            top: 177px;
+            position: relative;
+            text-align: left;
+        }
+
+        .woocommerce div.product form.cart {
+            top: 73px;
+            position: relative;
+        }
+
+        span.sku_wrapper {
+            position: relative;
+            top: -60px;
+        }
+
+        .woocommerce ul.products li.product .woocommerce-loop-category__title, .woocommerce ul.products li.product .woocommerce-loop-product__title, .woocommerce ul.products li.product h3 {
+            width: auto;
+        }
+
+        .woocommerce ul.products li.product .button {
+            margin-left: 80px;
+        }
+
+        form.wpcf7-form.init {
+            height: auto;
+            display: flow-root;
+        }
+
+        div#right-sidebar {
+            height: 1000px;
+        }
+
+        main#right-main-full {
+            width: 90%;
+        }
+        a.logo_fox {
+            display: none;
+        }
+        .colection_costume {
+            display: none;
+        }
+        .mobile_strip {
+            display: block;
+        }
+        .mobile_strip {
+            padding-top: 6px;
+        }
+        span.bacgr {
+            background: #551eb3;
+            width: auto;
+            height: 9px;
+            top: 39px;
+        }
+        p.payment {
+            width: 45%;
+            padding-left: 25px;
+        }
+        a.mobile_contact {
+            display: block;
+        }
+        button#mobile_catalog_menu {
+            display: block;
+            margin-right: 9px;
+            margin-top: 5px;
+            height: 35px;
+            width: 137px;
+            border-radius: 5px;
+            background: #ff0080;
+        }
+        .menu-fixed_2 span {
+            color: black;
+            text-align: left;
+            font-size: 40px;
+            left: 143px;
+            line-height: 45px;
+            font-weight: 900;
+            top: 20px;
+            position: absolute;
+        }
+        .menu-fixed_2 ul {
+            padding-top: 10px;
+        }
+        .menu-fixed_2 li {
+            border-bottom: 5px solid #f8b8d3;
+            margin: 0 10px;
+        }
+        .menu-fixed_2 .fixed-menu-header_2 {
+            background: #ff0080;
+            border-radius: 3px;
+            height: 55px;
+        }
+        .menu-fixed_2 .fixed-menu-header_2 p {
+            text-align: center;
+            font-size: 42px;
+            padding: 0;
+        }
+        .menu-fixed_2 a.fixed-menu-close_2.close-first-level_2 {
+            position: absolute;
+            right: 0;
+            top: -6px;
+        }
+        /*.costume_content a:last-child {
+            display: none;
+        }*/
+        .costume_content > a {
+            display: inline-block;
+            float: none;
+        }
+        .costume_content {
+            text-align: center;
+        }
+        div.asl_w.asl_m {
+            width: 40% !important;
+        }
+        ul.fixed-menu-list_2 li:last-child {
+            border-bottom: none;
+        }
+        figure.wp-block-image.size-full_mobile img {
+            width: 15%;
+        }
+        p.reviews {
+            display: none;
+        }
+        p.payment {
+            border-left: none;
+            padding-left: 0;
+            margin: 0;
+        }
+        p.insta, p.viber {
+            padding-left: 0;
+        }
+        p.insta {
+            border-left: none;
+        }
+        a.payment_mobile img {
+            width: 10%;
+        }
+        ul.fixed-menu-list_2 a {
+            width: 23%;
+        }
+        .logo_social img {
+            width: 14%;
+        }
+    }
+    @media screen and (max-width: 700px) {
+        main#right-main {
+            width: 65%;
+        }
+
+        main#right-main h1 {
+            width: 60%;
+            font-size: 14px;
+            margin: 0 auto;
+        }
+
+        div#right-sidebar {
+            width: 35%;
+        }
+
+        div#right-sidebar figure {
+            width: 50%;
+            margin-left: 35px;
+        }
+
+        main#right-main figure {
+            height: 48%;
+        }
+
+        a.arrow {
+            font-size: 16px !important;
+            padding: 62px 0 0 30px;
+        }
+
+        div#right-sidebar .swiper-container.nav-slider {
+            height: 866px;
+        }
+
+        .summary.entry-summary bdi {
+            top: 198px;
+        }
+        .tel_logo {
+            left: 37px;
+            top: 70px;
+        }
+    }
+    @media screen and (max-width: 650px) {
+        .tel_logo {
+            left: 62px;
+            top: 73px;
+        }
+
+        a.arrow {
+            font-size: 14px !important;
+        }
+
+        main#right-main figure {
+            height: 87%;
+            width: 73%;
+            left: 45px;
+        }
+
+        .woocommerce ul.products li.product .button {
+            margin-left: 66px;
+        }
+
+        span.woocommerce-Price-amount.amount bdi {
+            left: 0;
+        }
+        div.asl_w.asl_m {
+            width: 35% !important;
+            margin-left: 39px;
+        }
+        .tel_logo {
+            left: 35px;
+            top: 68px;
+        }
+        .menu-fixed_2 span {
+            left: 154px;
+            font-size: 31px;
+        }
+        div#new .swiper.new-swiper.swiper-container-horizontal {
+            height: 180px;
+        }
+    }
+    @media screen and (max-width: 600px) {
+        header#header {
+            width: 100%;
+        }
+
+        .wp-block-image.size-full.is-resized img {
+            width: 32%;
+        }
+
+        .tel_logo a {
+            font-size: 15px;
+        }
+
+        .logo_social img {
+            width: 11%;
+        }
+
+        ul#menu-glavnoe-menyu-uk li, ul#menu-glavnoe-menyu-ru li, ul#menu-glavnoe-menyu-en li {
+            padding-right: 0;
+            padding-left: 18px;
+        }
+
+        div#block_content {
+            width: 100%;
+        }
+
+        .production_content > a {
+            width: 40%;
+        }
+
+        div#footer {
+            width: 100%;
+        }
+
+        .copyright {
+            width: 100%;
+        }
+
+        .logo_social {
+            width: 64%;
+            position: relative;
+        }
+
+        .tel_logo {
+            left: 21px;
+            top: 64px;
+        }
+
+        .wp-block-image.size-full.is-resized img {
+            width: 34%;
+        }
+
+        .block_zakaza {
+            display: block;
+        }
+
+        .block_zakaza > .block_zakaza_col:first-child + .block_zakaza_col {
+            margin-left: 0;
+        }
+
+        .block_zakaza {
+            width: 76%;
+        }
+
+        .block_zakaza > .block_zakaza_col:first-child {
+            width: 100%;
+        }
+
+        .block_zakaza > .block_zakaza_col:first-child + .block_zakaza_col {
+            width: auto;
+        }
+
+        .product-item {
+            width: 44%;
+        }
+
+        main#right-main-full {
+            width: 90%;
+        }
+
+        a.arrow {
+            font-size: 14px !important;
+            padding: 33px 0 0 23px;
+            background-size: 100%;
+            height: 120px;
+        }
+
+        div#load-more-wrapper button {
+            font-size: 15px;
+        }
+
+        nav.navigation.pagination {
+            font-size: 20px;
+        }
+
+        div#left-sidebar span {
+            display: block;
+        }
+
+        main#right-main {
+            margin-left: 30px;
+        }
+
+        .swiper-container {
+            height: 407px;
+        }
+
+        .form_block_2 label {
+            margin-left: 30px;
+        }
+
+        .form_block_3 label {
+            margin-left: 30px;
+        }
+
+        input#button_form {
+            width: 55%;
+        }
+
+        main#right-main {
+            margin-left: 0;
+            width: 65%;
+        }
+
+        main#right-main figure {
+            height: 62%;
+        }
+
+        div#right-sidebar {
+            width: 35%;
+        }
+
+        div#right-sidebar figure {
+            width: 42%;
+            margin-left: 31px;
+        }
+
+        div#costume_tax a {
+            font-size: 23px;
+        }
+
+        main#right-main-full h1 {
+            font-size: 23px;
+        }
+
+        .product-item img {
+            max-height: 142px;
+        }
+
+        .product-item {
+            height: 240px;
+        }
+
+        span.the_title {
+            font-size: 15px;
+        }
+
+        .mobile_strip {
+            padding-top: 24px;
+        }
+
+        a.mobile_contact p {
+            padding-left: 23px;
+        }
+
+        .logo_social a {
+            padding-right: 5px;
+        }
+
+        .logo_social {
+            width: 64%;
+        }
+
+        .mobile_strip {
+            padding-top: 5px;
+        }
+
+        .menu-fixed_2 span {
+            left: 140px;
+            font-size: 28px;
+        }
+        div#new .swiper.new-swiper.swiper-container-horizontal {
+            height: 150px;
+        }
+    }
+        @media screen and (max-width: 550px) {
+        .wp-block-image.size-full.is-resized img {
+            width: 34%;
+        }
+
+        #sub {
+            width: 150px;
+        }
+        .tel_logo {
+            left: 30px;
+            top: 68px;
+        }
+
+        .logo_social {
+            top: 88px;
+        }
+
+        .tel_logo a {
+            font-size: 9px;
+        }
+
+        .form-group {
+            padding-left: 23px;
+        }
+
+        input#s {
+            width: 205px;
+        }
+
+        .tel_logo {
+            left: 29px;
+            top: 59px;
+        }
+        .mobile_strip {
+            padding-top: 5px;
+        }
+
+        .tel_logo a {
+            font-size: 13px;
+        }
+
+        .widget.widget-header-left-top {
+            width: 26%;
+        }
+
+        .logo_social {
+            width: 64%;
+            top: 0;
+        }
+
+        .production_content > a {
+            width: 41%;
+            padding-left: 35px;
+        }
+
+        div#header-bottom {
+            font-size: 12px;
+        }
+
+        p.catalog, p.discont {
+            width: 23%;
+            line-height: 13px;
+            padding-left: 9px;
+        }
+
+        div#header-bottom {
+            font-size: 14px;
+        }
+
+        p.catalog a, p.discont a {
+            padding-top: 8px;
+        }
+
+        p.insta, p.viber {
+            padding-top: 5px;
+        }
+
+        div#footer .contact h3 {
+            padding-top: 8px;
+        }
+
+        .contact p {
+            padding-bottom: 5px;
+        }
+
+        .contact {
+            padding-right: 0;
+            font-size: 16px;
+        }
+
+        .form_block_2 label {
+            margin-left: 24px;
+        }
+
+        .form_block_3 label {
+            margin-left: 24px;
+        }
+
+        input#button_form {
+            width: 53%;
+        }
+
+        div#right-sidebar {
+            margin-right: 0;
+            width: 35%;
+        }
+        .contact {
+            padding-left: 0;
+        }
+        main#right-main h1 {
+            width: 49%;
+        }
+
+        main#right-main {
+            width: 65%;
+        }
+
+        main#right-main figure {
+            left: 70px;
+            top: 65px;
+        }
+
+        .product-item img {
+            max-height: 130px;
+        }
+
+        a.arrow {
+            padding: 33px 0 0 23px;
+        }
+
+        a.arrow {
+            padding: 27px 0 0 16px;
+        }
+        .menu-fixed_2 span {
+            left: 142px;
+        }
+        p.payment {
+            width: 63%;
+        }
+        .menu-fixed_2 span {
+            left: 136px;
+            font-size: 27px;
+        }
+            .menu-fixed_2 img {
+                width: 42%;
+                margin-right: 236px;
+            }
+            .menu-fixed_2 span {
+                left: 119px;
+                font-size: 26px;
+                top: 12px;
+            }
+            ul.fixed-menu-list_2 a {
+                width: 63%;
+            }
+            .wp-block-image.size-full.is-resized {
+                margin: 0;
+            }
+            .contact {
+                padding-right: 10px;
+            }
+            div#new .swiper.new-swiper.swiper-container-horizontal {
+                height: 125px;
+            }
+    }
+        @media screen and (max-width: 500px) {
+            div#header-bottom {
+                font-size: 12px;
+            }
+
+            .block_zakaza {
+                display: block;
+            }
+
+            .block_zakaza > .block_zakaza_col:first-child {
+                width: 100%;
+            }
+
+            .block_zakaza > .block_zakaza_col:first-child + .block_zakaza_col {
+                width: 100%;
+                margin-left: 0;
+            }
+
+            .wp-block-image.size-full.is-resized img {
+                width: 35%;
+            }
+
+            .tel_logo {
+                left: 21px;
+                top: 58px;
+            }
+
+            .logo_social {
+                width: 61%;
+                top: 0;
+            }
+
+            .widget-header-left-top.widget .custom-html-widget a {
+                font-size: 18px;
+            }
+
+            .logo_social img {
+                width: 10%;
+            }
+
+            .mobile_strip {
+                padding-top: 5px;
+            }
+
+            button#mobile_catalog_menu {
+                width: 107px;
+                font-size: 18px;
+                height: 30px;
+                margin-top: 7px;
+            }
+
+            p.catalog, p.discont {
+                width: 23%;
+                line-height: 13px;
+                padding-left: 9px;
+            }
+
+            div#header-bottom {
+                font-size: 14px;
+            }
+
+            p.catalog a, p.discont a {
+                padding-top: 8px;
+            }
+
+            p.insta, p.viber {
+                padding-top: 5px;
+            }
+
+            div#footer .contact h3 {
+                padding-top: 4px;
+            }
+
+            .contact p {
+                padding-bottom: 4px;
+            }
+
+            .contact {
+                padding-right: 15px;
+                font-size: 16px;
+            }
+
+            div#load-more-wrapper button {
+                width: 26%;
+            }
+
+            div#right-sidebar {
+                margin-right: 15px;
+                width: 37%;
+            }
+
+            main#right-main {
+                margin-left: 0;
+            }
+
+            main#right-main h1 {
+                font-size: 20px;
+            }
+
+            div#left-sidebar span {
+                font-size: 14px;
+                display: inline-block;
+            }
+
+            div#right-sidebar {
+                margin-right: 0;
+                width: 35%;
+            }
+
+            main#right-main h1 {
+                font-size: 16px;
+            }
+
+            main#right-main figure {
+                left: 34px;
+                height: 83%;
+            }
+
+            div#costume_tax a {
+                font-size: 23px;
+            }
+
+            main#right-main-full h1 {
+                font-size: 23px;
+            }
+
+            .product-item img {
+                max-height: 112px;
+            }
+
+            .product-item {
+                width: 43%;
+            }
+
+            a.arrow {
+                font-size: 12px !important;
+                padding: 25px 0 0 18px;
+                background-size: 100%;
+                height: 90px;
+            }
+
+            .tel_logo a {
+                font-size: 13px;
+            }
+
+            .widget.widget-header-left-top {
+                width: 26%;
+            }
+
+            p.payment a {
+                font-size: 12px;
+            }
+
+            div#footer .contact h3 {
+                font-size: 17px;
+            }
+
+            .contact p {
+                font-size: 14px;
+            }
+
+            .contact span {
+                font-size: 15px;
+            }
+
+            .contact small {
+                font-size: 15px;
+            }
+
+            .menu-fixed_2 span {
+                left: 125px;
+                top: 36px;
+                font-size: 23px;
+            }
+
+            .menu-fixed_2 img {
+                width: 52%;
+            }
+
+            .logo_social img {
+                width: 14%;
+            }
+
+            div#new .swiper.new-swiper.swiper-container-horizontal {
+                height: 115px;
+            }
+            .new-item a {
+                font-size: 18px;
+            }
+            a.new-item-title span {
+                font-size: 14px;
+            }
+        }
+    @media screen and (max-width: 480px) {
+        .form-group {
+            padding-left: 35px;
+        }
+
+        .widget.widget-header-right-top {
+            text-align: center;
+        }
+
+        .widget.widget-header-right-top p {
+            font-size: 37px;
+            padding-top: 5px;
+        }
+
+        figure.wp-block-image.size-full {
+            margin-top: -18px;
+        }
+
+        .tel_logo a {
+            font-size: 8px;
+        }
+
+        div#footer h3, span {
+            font-size: 14px;
+        }
+
+        .production_content > a {
+            width: 38%;
+        }
+
+        p.rights {
+            width: 30%;
+            display: contents;
+        }
+
+        .swiper-container {
+            height: 300px;
+        }
+
+        span.the_title {
+            font-size: 14px !important;
+        }
+
+        .widget-header-left-top.widget .custom-html-widget a {
+            font-size: 15px;
+
+        }
+        figure.wp-block-image.size-full_mobile {
+            margin-top: -20px;
+            margin-left: -10px;
+        }
+        a.mobile_contact p {
+            padding-left: 15px;
+        }
+        div#new .swiper.new-swiper.swiper-container-horizontal {
+            height: 93px;
+        }
+    }
+    @media screen and (max-width: 450px) {
+        .costume_content > a {
+            padding-left: 24px;
+        }
+
+        .wp-block-image.size-large {
+            width: 60%;
+            margin-top: 6px;
+        }
+
+        .menu-fixed ul li a {
+            font-size: 15px;
+            padding-right: 0;
+        }
+
+        figure.wp-block-image.size-full {
+            margin-top: -35px;
+        }
+
+        .wp-block-image.size-full.is-resized img {
+            width: 35%;
+        }
+
+        .copi_bg {
+            font-size: 12px;
+        }
+
+        p.catalog a, p.discont a {
+            padding-top: 9px;
+        }
+
+        div#footer .contact h3 {
+            padding-top: 6px;
+        }
+
+        .contact p {
+            padding-bottom: 0px;
+        }
+
+        .tel_logo {
+            left: 26px;
+            top: 53px;
+            line-height: 10px;
+        }
+
+        .tel_logo a {
+            font-size: 11px;
+        }
+        .mobile_strip {
+            padding-top: 11px;
+        }
+        .logo_social {
+            width: 55%;
+        }
+        .logo_social img {
+            width: 13%;
+        }
+        .wp-block-image.size-full.is-resized {
+            margin-bottom: 5px;
+        }
+        .mobile_strip {
+            padding-top: 5px;
+        }
+        div#footer h3, span {
+            font-size: 15px;
+        }
+
+        div#left-sidebar span {
+            font-size: 12px;
+        }
+
+        .form_block_2 {
+            width: auto;
+            padding: 0;
+        }
+
+        .form_block_3 {
+            width: auto;
+            padding: 0;
+        }
+
+        .form_block_4 {
+            width: auto;
+            padding: 0;
+        }
+
+        .product-item img {
+            max-height: 139px;
+        }
+
+        div#costume_tax a {
+            font-size: 20px;
+        }
+
+        main#right-main-full h1 {
+            font-size: 20px;
+        }
+
+        .product-item img {
+            max-height: 100px;
+        }
+
+        .product-item {
+            width: 41%;
+        }
+
+        a.arrow {
+            padding: 25px 0 0 18px;
+        }
+
+        main#right-main h1 {
+            font-size: 14px;
+        }
+
+        div#right-sidebar figure {
+            width: 89%;
+            margin-left: 6px;
+        }
+
+        .summary.entry-summary bdi {
+            top: 228px;
+        }
+        button#mobile_catalog_menu {
+            width: 100px;
+            font-size: 17px;
+            height: 32px;
+            margin-top: 7px;
+        }
+        .menu-fixed_2 span {
+            left: 122px;
+            top: 36px;
+            line-height: 21px;
+            font-size: 20px;
+        }
+        p.payment {
+            padding-left: 0;
+        }
+        .swiper-button-prev, .swiper-button-next {
+            background-size: 50%;
+        }
+        .swiper-button-next {
+            right: -71px;
+            top: 50px;
+        }
+        .swiper-button-prev {
+            top: 50px;
+        }
+
+    @media screen and (max-width: 420px) {
+        .widget.widget-header-right-top p {
+            padding-top: 11px;
+            padding-right: 25px;
+        }
+
+        figure.wp-block-image.size-full {
+            margin-top: -20px;
+        }
+
+        div#footer h3, span {
+            font-size: 13px;
+        }
+
+        .form-group {
+            padding-left: 10px;
+        }
+
+        input#s {
+            width: 185px;
+        }
+
+        .tel_logo {
+            left: 21px;
+            top: 47px;
+        }
+
+        .tel_logo a {
+            font-size: 10px;
+        }
+
+        .logo_social {
+            width: 38%;
+        }
+
+        .coln a {
+            font-size: 12px;
+        }
+
+        .cont_cat {
+            font-size: 12px;
+        }
+
+        .block_zakaza {
+            padding: 15px 10px 70px;
+        }
+
+        main#right-main {
+            margin-left: 0;
+        }
+        a.mobile_contact p {
+            padding-left: 15px;
+            padding-top: 7px;
+        }
+        p.payment a {
+            font-size: 11px;
+        }
+        .first_level__container a {
+            font-size: 23px;
+        }
+        .menu-fixed ul li a {
+            font-size: 18px;
+        }
+        div#new .swiper.new-swiper.swiper-container-horizontal {
+            height: 74px;
+        }
+    }
+    @media screen and (max-width: 400px) {
+        .tel_logo a {
+            font-size: 10px;
+        }
+
+        .tel_logo {
+            left: 20px;
+        }
+
+        .logo_social {
+            top: 9px;
+        }
+
+        .production_content > a {
+            width: 28%;
+        }
+
+        main#right-main {
+            margin-left: 32px;
+        }
+
+        main#right-main {
+            margin-left: 0;
+        }
+
+        div#right-sidebar figure {
+            margin-left: 5px;
+        }
+
+        main#right-main h1 {
+            width: 45%;
+            font-size: 12px;
+        }
+
+        main#right-main figure {
+            left: 27px;
+        }
+
+        div#costume_tax a {
+            font-size: 17px;
+        }
+
+        main#right-main-full h1 {
+            font-size: 17px;
+        }
+
+        .product-item img {
+            max-height: 84px;
+        }
+
+        .product-item {
+            width: 41%;
+        }
+
+        .product-item {
+            height: 195px;
+        }
+
+        a.arrow {
+            padding: 26px 0 0 14px;
+            background-size: 112%;
+            font-size: 8px !Important;
+        }
+
+        .product_meta span {
+            font-size: 15px;
+        }
+
+        .woocommerce ul.products li.product .button {
+            margin-left: 30px;
+        }
+        button#mobile_catalog_menu {
+            width: 86px;
+            font-size: 15px;
+        }
+        .widget-header-left-top.widget .custom-html-widget a {
+            font-size: 14px;
+        }
+        .mobile_strip {
+            padding-top: 15px;
+        }
+        .logo_social img {
+            width: 20%;
+        }
+        .wp-block-image.size-full.is-resized {
+            margin-bottom: 0;
+        }
+        .menu-fixed_2 span {
+            left: 108px;
+            font-size: 19px;
+            top: 40px;
+        }
+    }
+    @media screen and (max-width: 380px) {
+        .widget.widget-header-right-top p {
+            padding-top: 10px;
+            padding-right: 28px;
+            font-size: 15px;
+            text-align: center;
+        }
+
+        div#footer h3, span {
+            font-size: 13px;
+        }
+
+        .menu-fixed ul li a {
+            font-size: 13px;
+        }
+
+        figure.wp-block-image.size-full {
+            margin-top: -19px;
+            padding-right: 5px;
+        }
+
+        .form-group {
+            padding-left: 10px;
+        }
+
+        input#s {
+            width: 169px;
+        }
+
+        .wp-block-image.size-large {
+            width: 58%;
+        }
+
+        .wp-block-image.size-full.is-resized img {
+            width: 36%;
+        }
+
+        .wp-block-image.size-large {
+            padding-right: 0;
+        }
+
+        .tel_logo {
+            left: 38px;
+            top: 45px;
+        }
+
+        .tel_logo a {
+            font-size: 7px;
+        }
+
+        .logo_social {
+            width: 43%;
+        }
+
+        .production_content > a {
+            width: 35%;
+        }
+
+        p.catalog a, p.discont a {
+            font-size: 13px;
+        }
+
+        div#footer h3, span {
+            font-size: 12px;
+        }
+
+        .widget.widget-header-right-top p {
+            padding-top: 12px;
+            padding-right: 29px;
+        }
+
+        .wp-block-image.size-full.is-resized img {
+            width: 39%;
+        }
+
+        figure.wp-block-image.size-full {
+            margin-top: -19px;
+        }
+
+        .tel_logo {
+            left: 24px;
+        }
+
+        .tel_logo a {
+            font-size: 10px;
+        }
+
+        .logo_social {
+            width: 38%;
+            top: 69px;
+        }
+
+        .logo_social a {
+            padding-right: 8px;
+        }
+
+        .production_content > a {
+            width: 31%;
+        }
+
+        div#footer h3, span {
+            font-size: 11px;
+        }
+
+        p.catalog, p.discont {
+            width: 24%;
+        }
+
+        p.catalog, p.discont {
+            width: 22%;
+        }
+
+        div#footer .contact h3 {
+            font-size: 14px;
+        }
+
+        .contact p {
+            font-size: 12px;
+        }
+
+        div#footer h3, span {
+            font-size: 9px;
+        }
+
+        p.insta, p.viber {
+            padding-right: 0;
+        }
+
+        p.catalog a, p.discont a {
+            font-size: 11px;
+        }
+
+        .block_zakaza {
+            width: 92%;
+        }
+
+        .block_zakaza {
+            padding: 13px 14px 80px;
+        }
+
+        #sub {
+            margin-left: 70px;
+        }
+
+        .product-item img {
+            max-height: 80px;
+        }
+
+        .product-item {
+            width: 41%;
+            height: 160px;
+        }
+
+        div#load-more-wrapper button {
+            width: 30%;
+        }
+
+        main#right-main {
+            margin-left: 10px;
+        }
+
+        main#right-main {
+            margin-bottom: 200px;
+        }
+
+        div#wpcf7-f129-p242-o1 {
+            position: absolute;
+            margin-left: 0px;
+            padding-top: 12px;
+            margin-right: 15px;
+        }
+
+        .desc.clearfix p {
+            padding-top: 10px;
+        }
+
+        main#right-main {
+            margin-left: 0;
+        }
+
+        main#right-main {
+            margin-bottom: 0;
+        }
+
+        .summary.entry-summary bdi {
+            top: 247px;
+            font-size: 15px;
+        }
+
+        span.the_title {
+            font-size: 12px !important;
+        }
+        .logo_social img {
+            width: 22%;
+        }
+        .logo_social img {
+            width: 22%;
+        }
+        .logo_social {
+            top: 6px;
+        }
+        .widget-header-left-top.widget .custom-html-widget a {
+            font-size: 13px;
+        }
+        figure.wp-block-image.size-full_mobile {
+            margin-top: -21px;
+        }
+        .contact {
+            width: 40%;
+        }
+        p.payment {
+            line-height: 15px;
+            padding-top: 13px;
+        }
+        p.payment a {
+            font-size: 9px;
+        }
+        p.payment a:last-child {
+            font-size: 10px;
+        }
+        .menu-fixed_2 span {
+            left: 96px;
+            font-size: 18px;
+        }
+        p.payment a:last-child {
+            font-size: 10px;
+        }
+        p.insta img, p.viber img {
+            padding-bottom: 7px;
+        }
+        .new-item a {
+            font-size: 16px;
+        }
+        }
+    @media screen and (max-width: 365px) {
+        figure.wp-block-image.size-full {
+            margin-top: -29px;
+        }
+
+        .widget.widget-header-right-top p {
+            padding-top: 5px;
+            padding-right: 29px;
+            font-size: 35px;
+        }
+
+        .product-item {
+            width: 40%;
+            height: 160px;
+
+        }
+        .menu-fixed_2 span {
+            left: 88px;
+            font-size: 17px;
+            top: 39px;
+        }
+        .menu-fixed_2 img {
+            width: 44%;
+        }
+        .menu-fixed ul li a {
+            padding: 7px;
+        }
+        .menu-fixed_2 span {
+            left: 84px;
+            font-size: 18px;
+            top: 33px;
+        }
+        .first_level__container a {
+            font-size: 21px;
+        }
+        .menu-fixed ul li a {
+            font-size: 17px;
+        }
+        .first_level__container img {
+            width: 24%;
+        }
+        div#new .swiper.new-swiper.swiper-container-horizontal {
+            height: 55px;
+        }
+        .swiper-button-next, .swiper-button-prev {
+            top: 38px;
+        }
+    }
+        @media screen and (max-width: 350px) {
+            figure.wp-block-image.size-full {
+                margin-top: -28px;
+            }
+
+            .widget.widget-header-right-top p {
+                padding-top: 5px;
+            }
+
+            div#wpcf7-f129-p242-o1 {
+                position: absolute;
+                padding-top: 7px;
+                margin-right: 10px;
+            }
+
+            main#right-main {
+                margin-left: 0;
+            }
+
+            .product-item {
+                padding-left: 0;
+            }
+
+            .product-item img {
+                max-height: 98px;
+            }
+
+            .product-item {
+                height: 134px;
+            }
+
+            .product-item img {
+                max-height: 69px;
+            }
+
+            .product-item {
+                width: 39%;
+            }
+
+            a.arrow {
+                padding: 20px 0 0 14px;
+                background-size: 100%;
+                font-size: 7px !Important;
+                height: 65px;
+            }
+            figure.wp-block-image.size-full_mobile {
+                margin-top: -22px;
+                margin-left: -10px;
+            }
+            a.mobile_contact p {
+                padding-left: 14px;
+            }
+            p.payment {
+                width: 88%;
+            }
+            .widget.widget-header-right-top p {
+                font-size: 36px;
+            }
+        }
+        @media screen and (max-width: 320px) {
+            .block_zakaza {
+                width: 92%;
+            }
+
+            .block_zakaza {
+                padding: 13px 14px 80px;
+            }
+
+            #sub {
+                margin-left: 10px;
+            }
+
+            .product-item {
+                width: 30%;
+            }
+
+            div#load-more-wrapper button {
+                width: 35%;
+            }
+
+            main#right-main {
+                margin-bottom: 200px;
+            }
+
+            main#right-main {
+                margin-left: 0;
+                width: 65%;
+            }
+            div#right-sidebar {
+                margin-right: 0;
+                width: 35%;
+            }
+            main#right-main {
+                margin-bottom: 0;
+            }
+
+            a.arrow {
+                padding: 17px 0 0 11px;
+                background-size: 100%;
+                font-size: 8px !Important;
+                height: 60px;
+            }
+
+            .product-item img {
+                max-height: 63px;
+            }
+
+            .product-item {
+                width: 39%;
+            }
+
+            div#costume_tax {
+                margin-left: 10px;
+            }
+
+            .woocommerce ul.products li.product .woocommerce-loop-category__title, .woocommerce ul.products li.product .woocommerce-loop-product__title, .woocommerce ul.products li.product h3 {
+                font-size: 9px;
+            }
+
+            .woocommerce ul.products li.product .button {
+                font-size: 11px;
+            }
+            .widget-header-left-top.widget .custom-html-widget a {
+                font-size: 12px;
+            }
+            button#mobile_catalog_menu {
+                width: 61px;
+                font-size: 12px;
+            }
+            .tel_logo {
+                left: 10px;
+                top: 38px;
+            }
+            .widget-header-left-top.widget .custom-html-widget a {
+                font-size: 11px;
+            }
+            p.payment a {
+                font-size: 13px;
+            }
+            figure.wp-block-image.size-full_mobile {
+                margin-top: -18px;
+                margin-left: -10px;
+            }
+            a.mobile_contact p {
+                padding-left: 13px;
+                padding-top: 8px;
+            }
+            p.payment {
+                width: 22%;
+                padding-left: 0;
+            }
+            p.insta, p.viber {
+                padding-right: 0;
+                padding-left: 0;
+            }
+            .contact {
+                width: 45%;
+            }
+            .menu-fixed_2 span {
+                left: 80px;
+                top: 32px;
+            }
+            .widget.widget-header-right-top p {
+                padding-top: 10px;
+                font-size: 29px;
+            }
+            p.payment a:last-child {
+                font-size: 8px;
+            }
+            p.payment a {
+                font-size: 11px;
+            }
+            .menu-fixed_2 img {
+                width: 46%;
+            }
+            .first_level__container a {
+                font-size: 18px;
+                padding-left: 5px;
+            }
+            .first_level__container img {
+                width: 25%;
+            }
+        }
